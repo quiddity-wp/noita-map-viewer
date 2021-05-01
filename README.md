@@ -34,4 +34,4 @@ The map marker locations and their descriptions are defined [here](https://githu
 If you see anything on the map that should be marked but isn't, that has an incorrect description or could simply use a better description, feel free to open an issue or a pull request with the required details (map coordinates, description, etc.).
 
 #### Credits
-A big shout out goes to [veediagaems](https://www.easyzoom.com/profile/90588) for creating the markers that I adapted from his [EasyZoom map](https://www.easyzoom.com/image/260463).
+A big shout out goes to [veediagaems](https://www.twitch.tv/veediagaems) for creating the markers that I adapted from his [EasyZoom map](https://www.easyzoom.com/image/260463).
