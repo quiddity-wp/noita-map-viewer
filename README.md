@@ -11,7 +11,7 @@ Noita Map Viewer is a fast, fully-responsive, [Leaflet](https://leafletjs.com)-b
 
 #### How can I use this map viewer offline?
 1. Download this repository ([*click*](https://github.com/whalehub/noita-map-viewer/archive/refs/heads/master.zip)) and extract it.
-2. Download the Noita map file ([*click*](https://mega.nz/file/HnxAHKbb#L3dTuPTTQ2VxGSewLomTq9EgrJfdabJbL-WQ1C7WYKk)) [Mirrors: [1](https://www.mediafire.com/file/8tu0pj1gopvg0mm/noita.zip/file), [2](https://anonfiles.com/Lf6dZ3tcu8/noita_zip), [3](https://noita.datahoarder.dev/deepzoom/noita.zip), [torrent](https://noita.datahoarder.dev/deepzoom/noita.torrent)] and extract it inside the `deepzoom` folder.
+2. Download the Noita map file ([*click*](https://mega.nz/file/HnxAHKbb#L3dTuPTTQ2VxGSewLomTq9EgrJfdabJbL-WQ1C7WYKk)) [Mirrors: [1](https://www.mediafire.com/file/8tu0pj1gopvg0mm/noita.zip/file), [2](https://noita.datahoarder.dev/deepzoom/noita.zip), [torrent](https://noita.datahoarder.dev/deepzoom/noita.torrent)] and extract it inside the `deepzoom` folder.
 3. Done! You can now view the map by opening the `index.html` file in a browser of your choice.
 
 #### Can I host my own copy of this map viewer?
