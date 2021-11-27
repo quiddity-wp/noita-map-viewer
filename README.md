@@ -1,6 +1,6 @@
 ## About
 
-Noita Map Viewer is a fast, fully-responsive, [Leaflet](https://leafletjs.com)-based map viewer for the videogame [Noita](https://noitagame.com). It makes use of the Leaflet plugins [MiniMap](https://github.com/Norkart/Leaflet-MiniMap), [DeepZoom](https://github.com/alfarisi/leaflet-deepzoom) and [MapCenterCoord](https://github.com/xguaita/Leaflet.MapCenterCoord) to provide a viewing experience that is on par with, if not superior to the one that is offered by EasyZoom. A demo of this viewer is available [here](https://noita.datahoarder.dev).
+Noita Map Viewer is a fast, fully-responsive, [Leaflet](https://leafletjs.com)-based map viewer for the videogame [Noita](https://noitagame.com). It makes use of the Leaflet plugins [MiniMap](https://github.com/Norkart/Leaflet-MiniMap), [DeepZoom](https://github.com/alfarisi/leaflet-deepzoom) and [Mouse Position](https://github.com/ardhi/Leaflet.MousePosition) to provide a viewing experience that is on par with, if not superior to the one that is offered by EasyZoom. A demo of this viewer is available [here](https://noita.datahoarder.dev).
 
 ### FAQ
 #### Why?
