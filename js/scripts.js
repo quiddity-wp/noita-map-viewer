@@ -949,7 +949,7 @@ the_work.bindPopup("<b>The Work</b><hr>Kill Kolmi to open a portal here.");
 three_eyes_legs.bindPopup("<b>Kolmisilmän koipi (aka Pyramid Boss)</b> <a href=\"https://noita.fandom.com/wiki/Kolmisilmän_koipi\" target=\"_blank\" rel=\"noopener noreferrer\">[wiki]");
 tiny.bindPopup("<b>Limatoukka (aka Maggot aka Tiny)</b> <a href=\"https://noita.fandom.com/wiki/Limatoukka\" target=\"_blank\" rel=\"noopener noreferrer\">[wiki]</a><hr>Exists in NG+, but not in parallel worlds.");
 tower_entrance.bindPopup("<b>Entrance to The Tower</b>");
-tower_portal.bindPopup("<b>Entrance to The Tower</b><hr>Drain or destroy the lava to reveal the portal.");
+tower_portal.bindPopup("<b>Portal to The Tower</b><hr>Drain or destroy the lava to reveal the portal.");
 warning_01.bindPopup("<b>Warning</b><hr>Watch out for High Alchemist and Pit Boss spawns on the surface of parallel worlds.");
 warning_02.bindPopup("<b>Warning</b><hr>Watch out for High Alchemist and Pit Boss spawns on the surface of parallel worlds.");
 wormy_egg.bindPopup("<b>Wormy Egg</b><hr>Can be useful for the Dark Cave below.");
