@@ -743,6 +743,7 @@ var star = L.icon({iconUrl: 'images/star.png', iconSize: [26, 26]});
 
 // Map marker coordinates
 var achievement_pillars = L.marker([-0.23501, 0.18648], {icon: pin_blue}).addTo(map);
+var anvil = L.marker([-0.29257, 0.21072], {icon: pin_blue}).addTo(map);
 var avarice_diamond = L.marker([-0.27933, 0.27166], {icon: pin_blue}).addTo(map);
 var bammalam_monument = L.marker([-0.24079, 0.18417], {icon: pin_blue}).addTo(map);
 var big_fungus = L.marker([-0.27115, 0.24407], {icon: flag_violet}).addTo(map);
@@ -849,6 +850,7 @@ var you = L.marker([-0.24526, 0.20057], {icon: pin_blue}).addTo(map);
 
 // Map marker descriptions
 achievement_pillars.bindPopup("<b>Achievement Pillars</b><hr>Visit <a href=\"images/achievement_pillars.png\" target=\"_blank\" rel=\"noopener noreferrer\">this</a> link for details on how to unlock them.");
+anvil.bindPopup("<b>Anvil</b><hr>Can be used to reforge emerald tablets.");
 avarice_diamond.bindPopup("<b>Avarice Diamond</b> <a href=\"https://noita.fandom.com/wiki/The_Tower#Avarice_Diamond\" target=\"_blank\" rel=\"noopener noreferrer\">[wiki]");
 bammalam_monument.bindPopup("<b>Bammalam Monument</b> <a href=\"https://noita.fandom.com/wiki/Giant_Tree#Left_Side\" target=\"_blank\" rel=\"noopener noreferrer\">[wiki]");
 big_fungus.bindPopup("<b>Big Fungus</b><hr>Now comes pre-loaded with Mystery Fungus!");
