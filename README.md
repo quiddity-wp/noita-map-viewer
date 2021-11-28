@@ -27,14 +27,14 @@ Yes! The viewer is a static HTML page, so you can simply drop the files in your 
 ```
 vips dzsave --layout iiif3 --tile-size 256 output.png iiif3
 ```
-4. Move the newly created `iiif3` folder inside the `noita-map-viewer` folder.
-5. Serve the `noita-map-viewer` folder with a webserver\* of your choice.
-6. Done! You can now view your own map by visiting your webserver's URL in a browser.
+5. Move the newly created `iiif3` folder inside the `noita-map-viewer` folder.
+6. Serve the `noita-map-viewer` folder with a webserver\* of your choice.
+7. Done! You can now view your own map by visiting your webserver's URL in a browser.
 
 \*If you plan on sharing your map with other people, I'd recommend serving the folder with either [Nginx](https://github.com/nginx/nginx) or [Caddy](https://github.com/caddyserver/caddy). If not, I'd recommend using a minimalistic webserver like [devd](https://github.com/cortesi/devd), [nimhttpd](https://github.com/h3rald/nimhttpd) or [webby](https://github.com/ssddanbrown/webby) instead.
 
 #### How can I edit/add/remove map markers?
-The map marker locations and their descriptions are defined [here](https://github.com/whalehub/noita-map-viewer/blob/master/js/scripts.js#L744-L847) and [here](https://github.com/whalehub/noita-map-viewer/blob/master/js/scripts.js#L849-L952) respectively.
+The map marker locations and their descriptions are defined [here](https://github.com/whalehub/noita-map-viewer/blob/master/js/scripts.js#L744-L849) and [here](https://github.com/whalehub/noita-map-viewer/blob/master/js/scripts.js#L851-L956) respectively.
 
 #### How can I contribute to this project?
 If you see anything on the map that should be marked but isn't, that has an incorrect description or could simply use a better description, feel free to open an issue or a pull request with the required details (map coordinates, description, etc.).
