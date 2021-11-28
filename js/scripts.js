@@ -812,6 +812,7 @@ var orb_earthquake = L.marker([-0.23692, 0.27558], {icon: circle_blue}).addTo(ma
 var orb_fireworks = L.marker([-0.3709, 0.19684], {icon: circle_blue}).addTo(map);
 var orb_holy_bomb = L.marker([-0.27635, 0.16535], {icon: circle_blue}).addTo(map);
 var orb_necromancy = L.marker([-0.26852, 0.27561], {icon: circle_blue}).addTo(map);
+var orb_nuke L.marker([-0.26852, 0.27561], {icon: circle_blue}).addTo(map);
 var orb_sea_of_lava = L.marker([-0.23767, 0.20481], {icon: circle_blue}).addTo(map);
 var orb_spiral_shot = L.marker([-0.32362, 0.1693], {icon: circle_blue}).addTo(map);
 var orb_tentacle = L.marker([-0.26849, 0.12203], {icon: circle_blue}).addTo(map);
@@ -917,6 +918,7 @@ orb_earthquake.bindPopup("<b>Orb (Earthquake)</b><hr>Bring Paha Silmä (Evil Eye
 orb_fireworks.bindPopup("<b>Orb (Fireworks)</b>");
 orb_holy_bomb.bindPopup("<b>Orb (Holy Bomb)</b>");
 orb_necromancy.bindPopup("<b>Orb (Necromancy)</b>");
+orb_nuke.bindPopup("<b>Orb (Nuke)</b>");
 orb_sea_of_lava.bindPopup("<b>Orb (Sea of Lava)</b>");
 orb_spiral_shot.bindPopup("<b>Orb (Spiral Shot)</b>");
 orb_tentacle.bindPopup("<b>Orb (Tentacle)</b>");
