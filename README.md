@@ -1,6 +1,6 @@
 ## About
 
-Noita Map Viewer is a fast, fully-responsive, [OpenSeadragon](https://openseadragon.github.io)-based map viewer for the videogame [Noita](https://noitagame.com). It offers a viewing experience that is on par with, if not superior to the one that is offered by EasyZoom. A demo of this viewer is available [here](https://noita.datahoarder.dev).
+Noita Map Viewer is a fast, fully-responsive, [OpenSeadragon](https://openseadragon.github.io)-based map viewer for the videogame [Noita](https://noitagame.com). It offers a viewing experience that is on par with, if not superior to the one that is offered by EasyZoom. A [demo of this viewer is available here](https://noita.datahoarder.dev).
 
 ### FAQ
 #### Why?
