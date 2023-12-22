@@ -1,3 +1,14 @@
+> [!CAUTION]
+> This is NOT my work. I just branched it to submit tiny link-fixes.
+> 
+> However, the original author ("Aaron") seems to have deleted their Github-account, hence I have the only copy of this entire code repository
+> 
+> Github's Ui has buried the "origin" of it being a fork... (It's clearly visible in the repo history)
+> 
+> [Today I learned! We should trim unused branches, otherwise we might inherit them! Now I either have to preserve it all forever on their/world's behalf, or delete it from reality...Ugh.]
+> 
+> Original content by "Aaron" is below:
+
 ## About
 
 Noita Map Viewer is a fast, fully-responsive, [OpenSeadragon](https://openseadragon.github.io)-based map viewer for the videogame [Noita](https://noitagame.com). It offers a viewing experience that is on par with, if not superior to the one that is offered by EasyZoom. A demo of this viewer is available [here](https://noita.datahoarder.dev).
@@ -26,3 +37,6 @@ If you see anything on the map that should be marked but isn't, that has an inco
 
 #### Credits
 A big shout out goes to [veediagaems](https://www.twitch.tv/veediagaems) for creating the markers that I adapted from his [EasyZoom map](https://www.easyzoom.com/image/260463).
+
+> [!CAUTION]
+> All content was written by "Aaron". See note at top.
